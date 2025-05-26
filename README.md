@@ -1,8 +1,6 @@
 
 # Hi, I'm ines. 👋 👨‍💻
 
-<img src="https://avatars.githubusercontent.com/u/212606662?v=4&size=64" alt="banner - luis angel">
-
 
 🔹 Opción 1: Profesional y directa
 🔭 I’m currently working on software development projects.
