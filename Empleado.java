@@ -2,16 +2,18 @@ public class Empleado {
     private final String nombre;
     private final String cargo;
     private final double salario;
-
     /*
-     * metodo empleado para recoger las variables
-     */
+    constructor empleado
+    
+    */
     public Empleado(String nombre, String cargo, double salario) {
         this.nombre = nombre;
         this.cargo = cargo;
         this.salario = salario;
     }
-
+    /*
+    metodos get
+    */
     public String getNombre() {
         return nombre;
     }
