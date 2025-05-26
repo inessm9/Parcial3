@@ -15,8 +15,6 @@
 
 💬 Feel free to ask me about my work and ideas.
 
-📫 Reach me at: laquizhpe@alu.ucam.edu
-
 🔹 Opción 2: Dinámica y entusiasta
 👩‍💻 Passionate about technology and innovation.
 
@@ -25,6 +23,4 @@
 🤝 Looking to collaborate with inspiring people on innovative projects.
 
 💡 Always curious and eager to solve real-world problems.
-
-📫 Contact me at: laquizhpe@alu.ucam.edu
 
