@@ -1,8 +1,6 @@
 
 # Hi, I'm Ines. 
 
-<img src="[https://media.licdn.com/dms/image/v2/D4E16AQFVvM7VkIMNAQ/profile-displaybackgroundimage-shrink_350_1400/B4EZbqa7WvHYAc-/0/1747689650262?e=1753315200&v=beta&t=Mb6LuSM_2QN17pFLTg1s207yt3PmnQ69KDmiKz-AW0o" alt="banner - luis angel](https://avatars.githubusercontent.com/u/212606662?v=4&size=64)">
-
 I'm a software student he is passionate  contributing and creating technology to elevate people Some technologies I enjoy working with include ionic, django, java and python. 
 
 🔹 Opción 1: Profesional y directa
